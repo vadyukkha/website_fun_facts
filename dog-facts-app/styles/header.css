@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'HeaderFont';
-  src: url('/dog-facts-app/styles/fonts/Zametka_Parletter.otf') format('opentype');
+  src: url('./fonts/Zametka_Parletter.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
