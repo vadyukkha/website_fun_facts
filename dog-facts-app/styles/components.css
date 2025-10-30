@@ -6,11 +6,12 @@
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    margin-bottom: 20px;
+    margin: auto;    
     transition: all 0.3s ease;
     text-decoration: none;
-    display: inline-block;
+    display: flex;
     text-align: center;
+    align-self: flex-end;
 }
 
 .btn:hover {
@@ -23,16 +24,8 @@
     transform: translateY(0);
 }
 
-.btn-secondary {
-    background: #95a5a6;
-}
-
-.btn-secondary:hover {
-    background: #7f8c8d;
-}
-
 .fact-card, .image-card {
-    background: #ecf0f1;
+    background: #ffffff;
     padding: 1.5rem;
     margin: 1rem 0;
     border-radius: 8px;
