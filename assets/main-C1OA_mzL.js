@@ -1,0 +1,1 @@
+import{R as e,j as o,r as t}from"./client-DhsGxYVf.js";const r=()=>(console.log("Добро пожаловать в приложение Факты и Картинки!"),t.useEffect(()=>{console.log("Страница загружена!")},[]),null);e.createRoot(document.body.appendChild(document.createElement("div"))).render(o.jsx(r,{}));
